@@ -3,3 +3,4 @@ Git with Others lab
 
 ##Team
 *Alex
+*Bob
