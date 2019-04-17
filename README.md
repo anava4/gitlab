@@ -5,3 +5,5 @@ Git with Others lab
 *Alex
 *Bob
 *Madison
+*Yanni
+
